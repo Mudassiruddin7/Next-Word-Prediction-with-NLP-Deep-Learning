@@ -1,4 +1,4 @@
-![Nextword](https://static.wikia.nocookie.net/powerlisting/images/0/04/Joeseph_Joestar_-_Your_Next_Line_Is.gif)
+![Nextword](https://static.wikia.nocookie.net/powerlisting/images/0/04/Joeseph_Joestar_-_Your_Next_Line_Is.gif/revision/latest?cb=20210227071200)
 
 # _**Next Word Prediction with NLP & Deep Learning**_
 Next-word prediction using Natural Language Processing (NLP) and Deep Learning is a cutting-edge approach that leverages advanced neural network architectures to enhance language understanding and improve user experience in various applications. This technique involves training models on large datasets to learn intricate patterns and dependencies within language, enabling them to predict the most probable next word in a given context.
